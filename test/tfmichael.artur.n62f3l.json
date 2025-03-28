@@ -1,0 +1,14 @@
+[
+  {
+    "name": "129d0774-f970-4aa1-98a3-606aee1b5c9f|rur",
+    "value": "NCG",
+    "domain": ".instagram.com",
+    "path": "/",
+    "expires": 1744874584,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "priority": "Medium"
+  }
+]
